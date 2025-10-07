@@ -48,6 +48,12 @@ static const int bitrateTable[] = {
     100000,
     120000,
     150000,
+    // ARTEMIS ADDITION: Higher bitrates for Apollo/Sunshine
+    160000,  // 160 Mbps
+    170000,  // 170 Mbps
+    180000,  // 180 Mbps
+    190000,  // 190 Mbps
+    200000,  // 200 Mbps
 };
 
 const int RESOLUTION_TABLE_SIZE = 7;
